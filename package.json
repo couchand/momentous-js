@@ -1,0 +1,26 @@
+{
+  "name": "momentous-js",
+  "version": "0.0.1",
+  "description": "a tiny moment wrapper exposing an immutable api",
+  "author": "Andrew Couch <momentous@andrewcou.ch>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/couchand/momentous-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/couchand/momentous-js/issues"
+  },
+  "keywords": [
+    "moment",
+    "date",
+    "time"
+  ],
+  "dependencies": {
+    "moment": "~2.7.0"
+  }
+}
